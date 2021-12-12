@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rajatsahu18.github.io/csb-v5o5v/static/css/main.ee88ee73.chunk.css",
+    "main.js": "https://rajatsahu18.github.io/csb-v5o5v/static/js/main.1c2f50af.chunk.js",
+    "main.js.map": "https://rajatsahu18.github.io/csb-v5o5v/static/js/main.1c2f50af.chunk.js.map",
+    "runtime-main.js": "https://rajatsahu18.github.io/csb-v5o5v/static/js/runtime-main.2611c5ed.js",
+    "runtime-main.js.map": "https://rajatsahu18.github.io/csb-v5o5v/static/js/runtime-main.2611c5ed.js.map",
+    "static/js/2.48a7d635.chunk.js": "https://rajatsahu18.github.io/csb-v5o5v/static/js/2.48a7d635.chunk.js",
+    "static/js/2.48a7d635.chunk.js.map": "https://rajatsahu18.github.io/csb-v5o5v/static/js/2.48a7d635.chunk.js.map",
+    "index.html": "https://rajatsahu18.github.io/csb-v5o5v/index.html",
+    "static/css/main.ee88ee73.chunk.css.map": "https://rajatsahu18.github.io/csb-v5o5v/static/css/main.ee88ee73.chunk.css.map",
+    "static/js/2.48a7d635.chunk.js.LICENSE.txt": "https://rajatsahu18.github.io/csb-v5o5v/static/js/2.48a7d635.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2611c5ed.js",
+    "static/js/2.48a7d635.chunk.js",
+    "static/css/main.ee88ee73.chunk.css",
+    "static/js/main.1c2f50af.chunk.js"
+  ]
+}
